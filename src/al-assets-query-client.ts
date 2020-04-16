@@ -8,7 +8,6 @@ import {
   FindAssetsRequest,
   TagsSummaryResponse,
   TopologyResponse,
-  ExposuresDeploymentSummary,
   ExposuresSummary,
   ExposureQueryParams,
   ExposuresQueryResponse,
